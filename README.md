@@ -40,13 +40,13 @@
 
 ###
 
-<img align="left" height="100" src="https://i.pinimg.com/564x/97/0e/4c/970e4c7d20c94ec960da0ac8e57152f1.jpg"  />
+<img align="left" height="150" src="https://i.pinimg.com/564x/97/0e/4c/970e4c7d20c94ec960da0ac8e57152f1.jpg"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Perpetva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true&order=1" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Perpetva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="100" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Perpetva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=pt-br&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Perpetva&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
