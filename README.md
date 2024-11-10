@@ -22,7 +22,7 @@
 
 ###
 
-<h6 align="center">Programming Languages</h6>
+<h6 align="center">Programming Languages / Frameworks </h6>
 
 ###
 
